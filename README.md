@@ -16,5 +16,7 @@ This site has been built using ReactJS. For backend services, I've made extensiv
 
 Currently, Prodash is only available to select organizations. If you or your organization is interested in using Prodash, please reach out to me at hello@prodash.io. 
 
+You can check it out [here](https://prodash.io) 
+
 Experience the future of project management with Prodash!
 
